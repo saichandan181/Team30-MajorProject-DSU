@@ -41,14 +41,13 @@ The application classifies images into five severity levels:
 
 - Node.js (v16 or higher)
 - npm or yarn
-- Google Gemini API key
 
 ### Installation
 
 1. Clone the repository:
    ```
    git clone https://github.com/saichandan181/Team30-MajorProject-DSU
-   cd diabeticrethinopathy
+   cd WebApplication
    ```
 
 2. Install dependencies:
